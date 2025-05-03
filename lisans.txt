@@ -1,0 +1,31 @@
+DİRENÇ BÖLÜCÜ HESAPLAYICI LİSANS SÖZLEŞMESİ
+
+Bu yazılım lisans sözleşmesi, Direnç Bölücü Hesaplayıcı yazılımını ("Yazılım") kullanmanız için gerekli koşulları belirtir.
+
+1. LİSANS VERİLMESİ
+
+Bu sözleşmeyi kabul ettiğinizde ve geçerli bir lisans anahtarı kullandığınızda, yazılımın bir kopyasını bilgisayarınızda yükleme ve kullanma hakkına sahip olursunuz.
+
+2. TELİF HAKKI
+
+Yazılımın tüm hakları saklıdır ve Okan Kocer'e aittir. Yazılım, telif hakkı yasaları ve uluslararası telif hakkı anlaşmaları ile korunmaktadır. Yazılımın herhangi bir bileşenini kopyalayamaz, değiştiremez, tersine mühendislik yapamaz, kaynak kodunu çıkaramaz veya yazılımdan türetilmiş çalışmalar oluşturamazsınız.
+
+3. LİSANS ANAHTARI
+
+Yazılımı kullanmak için geçerli bir lisans anahtarı gereklidir. Lisans anahtarını başkalarıyla paylaşamazsınız. Lisans anahtarınızın güvenliği sizin sorumluluğunuzdadır.
+
+4. GARANTİ REDDİ
+
+Yazılım "olduğu gibi" sağlanmaktadır ve herhangi bir garanti verilmemektedir. Yazılımın kalitesi, performansı, doğruluğu veya belirli bir amaca uygunluğu konusunda hiçbir garanti verilmemektedir.
+
+5. SORUMLULUK SINIRLAMASI
+
+Yazılımın kullanımından kaynaklanan herhangi bir doğrudan, dolaylı, özel, arızi veya sonuç olarak ortaya çıkan zararlardan sorumlu tutulamayız.
+
+6. SONLANDIRMA
+
+Bu sözleşme, sözleşme şartlarını ihlal etmeniz durumunda otomatik olarak sona erer. Sözleşme sona erdiğinde, yazılımın tüm kopyalarını silmelisiniz.
+
+Bu sözleşmeyi kabul ederek, yukarıdaki şartları okuduğunuzu ve anladığınızı onaylamış olursunuz.
+
+Copyright © 2025 Okan Kocer. Tüm hakları saklıdır. 
